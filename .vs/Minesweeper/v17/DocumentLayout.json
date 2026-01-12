@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Undergraduate_Studies_UJS\\freshmen first semester\\C\u002B\u002B\\Minesweeper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E49FB6F4-4AC1-44D7-8879-3535C4D6319C}|Minesweeper.vcxproj|D:\\Undergraduate_Studies_UJS\\freshmen first semester\\C\u002B\u002B\\Minesweeper\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E49FB6F4-4AC1-44D7-8879-3535C4D6319C}|Minesweeper.vcxproj|solutionrelative:text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49FB6F4-4AC1-44D7-8879-3535C4D6319C}|Minesweeper.vcxproj|D:\\Undergraduate_Studies_UJS\\freshmen first semester\\C\u002B\u002B\\Minesweeper\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E49FB6F4-4AC1-44D7-8879-3535C4D6319C}|Minesweeper.vcxproj|solutionrelative:game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49FB6F4-4AC1-44D7-8879-3535C4D6319C}|Minesweeper.vcxproj|D:\\Undergraduate_Studies_UJS\\freshmen first semester\\C\u002B\u002B\\Minesweeper\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E49FB6F4-4AC1-44D7-8879-3535C4D6319C}|Minesweeper.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "D:\\Undergraduate_Studies_UJS\\freshmen first semester\\C\u002B\u002B\\Minesweeper\\game.h",
+              "RelativeDocumentMoniker": "game.h",
+              "ToolTip": "D:\\Undergraduate_Studies_UJS\\freshmen first semester\\C\u002B\u002B\\Minesweeper\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-23T07:21:40.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.c",
+              "DocumentMoniker": "D:\\Undergraduate_Studies_UJS\\freshmen first semester\\C\u002B\u002B\\Minesweeper\\game.c",
+              "RelativeDocumentMoniker": "game.c",
+              "ToolTip": "D:\\Undergraduate_Studies_UJS\\freshmen first semester\\C\u002B\u002B\\Minesweeper\\game.c",
+              "RelativeToolTip": "game.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-23T07:21:29.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "text.c",
+              "DocumentMoniker": "D:\\Undergraduate_Studies_UJS\\freshmen first semester\\C\u002B\u002B\\Minesweeper\\text.c",
+              "RelativeDocumentMoniker": "text.c",
+              "ToolTip": "D:\\Undergraduate_Studies_UJS\\freshmen first semester\\C\u002B\u002B\\Minesweeper\\text.c",
+              "RelativeToolTip": "text.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-23T07:21:18.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
